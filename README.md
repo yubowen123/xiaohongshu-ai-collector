@@ -267,6 +267,14 @@ MIT License
 
 由 Claude Code 辅助开发
 
+<!-- aiyou-contact:start -->
+## 联系作者 / Contact
+
+扫码添加作者微信，交流使用体验与项目合作。
+
+<img src="docs/assets/wechat-contact.jpg" alt="Glimmer · 光波的个人微信二维码" width="280" />
+<!-- aiyou-contact:end -->
+
 ---
 
 **⭐ 如果这个项目对您有帮助，请给个 Star！**
